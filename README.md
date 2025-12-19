@@ -12,3 +12,4 @@
 |Name| Repo        | Libraries/packages | Azure services  | [AZD?](https://learn.microsoft.com/azure/developer/azure-developer-cli/overview) | AI? | Model types| Languages | 
 |---| ------------- |:-------------| :-----| :- | :- |--| --|
 |Containerized React Web App with Node.js API and MongoDB on Azure|[Azure-Samples/todo-nodejs-mongo-aca](https://github.com/Azure-Samples/todo-nodejs-mongo-aca)|Azure Identity, Azure Cosmos DB, Azure Key Vault Secrets, Application Insights|Azure Container Registry, Azure Container Apps, Azure Monitoring, Azure Cosmos DB, Azure Key Vault, Azure API Management| ✅ | - | - | TypeScript|
+|Azure Cosmos DB for MongoDB vCore Quickstart - MongoDB driver for Node.js|[Azure-Samples/cosmos-db-mongodb-vcore-nodejs-quickstart](https://github.com/Azure-Samples/cosmos-db-mongodb-vcore-nodejs-quickstart)|Azure Identity, MongoDB|Azure Container Apps, Azure Cosmos DB Mongo vCore|-|-|TypeScript|
