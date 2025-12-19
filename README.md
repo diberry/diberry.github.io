@@ -6,7 +6,7 @@
 |---| ------------- |:-------------| :-----| :- | :- |--| --|
 |Classic RAG| [azure-samples/azure-typescript-langchainjs](https://github.com/azure-samples/azure-typescript-langchainjs) | Azure Identity, Azure Search Documents, Lang* | AI Search, OpenAI | ✅ | ✅ | Embeddings, LLM|TypeScript|
 |Vector Search: AI Search with Foundry project as dependency injection|[diberry/ai-search-agent-with-foundry-project](https://github.com/diberry/ai-search-agent-with-foundry-project)|Azure Identity, Azure Search Documents|Azure AI Search, Azure Foundry, Azure Foundry Projects|✅ | ✅ | LLM, Embeddings | TypeScript|
-|File upload to Blob storage with Shared Access Signature (SAS) token|[Azure-Samples/azure-typescript-upload-file-storage-blob](https://github.com/Azure-Samples/azure-typescript-upload-file-storage-blob)|Azure Storage, Azure Identity|Azure Storage, Azure Identity|✅|-|-|
+|File upload to Blob storage with Shared Access Signature (SAS) token|[Azure-Samples/azure-typescript-upload-file-storage-blob](https://github.com/Azure-Samples/azure-typescript-upload-file-storage-blob)|Azure Storage, Azure Identity|Azure Storage, Azure Identity|✅|- | -|-|
 
 ## Other Azure samples
 
